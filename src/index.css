@@ -1,0 +1,54 @@
+.nav-button {
+  margin-left: 10px;
+}
+.nav-form {
+  margin-left: 50px;
+}
+
+.skillet {
+  margin-top: 50px;
+}
+
+.img23 {
+  max-width: 80%;
+}
+
+.fourthimg {
+  max-width: 80%;
+}
+
+.about {
+  margin-top: 50px;
+}
+
+.contacts {
+  margin-top: 50px;
+}
+
+.form_contacts {
+  margin: auto;
+  width: 50%;
+}
+
+.card_home {
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.card_team {
+  width: 30%;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.acord{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.blog{
+  margin-top: 40px;
+}
